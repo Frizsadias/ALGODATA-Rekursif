@@ -33,7 +33,7 @@ private static void perpangkatan(){
             }
             
             for (int i = 0; i <n ; i++) {
-                System.out.print("Deret Fibonacci : "+fib[i]+" ");
+                System.out.print(fib[i]+" ");
             }
 }
     private static void ganjil(){
